@@ -10,7 +10,7 @@ sites:
   - name: Bank of Nova Scotia
     url: https://www.scotiabank.com
   - name: Bank of Montreal
-    url: https://www.bmo.com/
+    url: https://www.bmo.com
   - name: CIBC
     url: https://www.cibc.com  
   - name: National Bank of Canada
