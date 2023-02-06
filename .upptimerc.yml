@@ -45,6 +45,7 @@ status-website:
   faviconSvg: https://raw.githubusercontent.com/Thexyz/downly/4171886168d7a52f776a983c2a540d327100a586/assets/downly.svg
   
 user-agent: thexyz
+
 i18n:
   footer: This project is [open source]($REPO) and powered by [Downly](https://wiki.downly.net)
   up: "✅ Up"
