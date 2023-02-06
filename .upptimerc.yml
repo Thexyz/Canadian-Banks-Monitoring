@@ -39,3 +39,18 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+  status-website:
+  favicon: https://github.com/Thexyz/downly/blob/master/assets/downly-favicon.png
+  faviconSvg: https://raw.githubusercontent.com/Thexyz/downly/4171886168d7a52f776a983c2a540d327100a586/assets/downly.svg
+  
+user-agent: thexyz
+i18n:
+  footer: This project is [open source]($REPO), if you need help, check the [Wiki](https://wiki.downly.net)
+  up: "✅ Up"
+  degraded: "⚠️ Degraded"
+  down: "🚨 Down"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "All monitered services are currenly operational"
+  degradedPerformance: "⚠️ Degraded performance"
+  completeOutage: "🚨 Complete outage"
