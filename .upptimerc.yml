@@ -3,14 +3,24 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Royal Bank of Canada
+    url: https://www.rbcroyalbank.com
+  - name: Toronto-Dominion Bank
+    url: https://www.td.com
+  - name: Bank of Nova Scotia
+    url: https://www.scotiabank.com
+  - name: Bank of Montreal
+    url: https://www.bmo.com/
+  - name: CIBC
+    url: https://www.cibc.com  
+  - name: National Bank of Canada
+    url: https://www.nbc.ca
+  - name: HSBC Canada
+    url: https://www.hsbc.ca
+  - name: Laurentian Bank of Canada
+    url: https://www.laurentianbank.ca
+  - name: Canadian Western Bank
+    url: https://www.cwbank.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
