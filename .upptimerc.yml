@@ -30,10 +30,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Downly
   introTitle: "Real-time uptime monitoring and status page of Canada's largest banks, powered by **[Downly](https://downly.net)**."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: To see other available status pages using **real-time** data from [Downly](https://downly.net), visit the [**list of status pages**](https://wiki.downly.net/list-of-public-status-pages)
   navbar:
-    - title: Status
-      href: /
+    - title: Wiki
+      href: https://wiki.downly.net
     - title: Downly
       href: https://downly.net
 
@@ -46,7 +46,7 @@ status-website:
   
 user-agent: thexyz
 i18n:
-  footer: This project is [open source]($REPO), if you need help, check the [Wiki](https://wiki.downly.net)
+  footer: This project is [open source]($REPO) and powered by [Downly](https://wiki.downly.net)
   up: "✅ Up"
   degraded: "⚠️ Degraded"
   down: "🚨 Down"
