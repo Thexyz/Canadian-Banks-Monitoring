@@ -25,8 +25,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: ca.banks.downly.net
-  # baseUrl: /your-repo-name
+  cname: downly.net
+  baseUrl: /Canadian-Banks-Monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Downly
   introTitle: "Real-time uptime monitoring and status page of Canada's largest banks, powered by **[Downly](https://downly.net)**."
