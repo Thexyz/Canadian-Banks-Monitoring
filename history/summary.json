@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 394,
     "timeDay": 367,
-    "timeWeek": 365,
+    "timeWeek": 383,
     "timeMonth": 394,
     "timeYear": 394,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://www.td.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.td.com.ico",
     "slug": "toronto-dominion-bank",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 692,
-    "timeWeek": 363,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 375,
+    "timeDay": 505,
+    "timeWeek": 392,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2023-02-14": 0
+      "2023-02-14": 10
     }
   },
   {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 381,
     "timeDay": 355,
-    "timeWeek": 374,
+    "timeWeek": 388,
     "timeMonth": 381,
     "timeYear": 381,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 832,
     "timeDay": 289,
-    "timeWeek": 927,
+    "timeWeek": 1003,
     "timeMonth": 832,
     "timeYear": 832,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 626,
     "timeDay": 602,
-    "timeWeek": 660,
+    "timeWeek": 667,
     "timeMonth": 626,
     "timeYear": 626,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 500,
     "timeDay": 315,
-    "timeWeek": 545,
+    "timeWeek": 539,
     "timeMonth": 500,
     "timeYear": 500,
     "dailyMinutesDown": {}
@@ -122,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 419,
     "timeDay": 409,
-    "timeWeek": 408,
+    "timeWeek": 412,
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {}
@@ -140,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 1085,
     "timeDay": 1019,
-    "timeWeek": 1340,
+    "timeWeek": 1432,
     "timeMonth": 1085,
     "timeYear": 1085,
     "dailyMinutesDown": {}
@@ -158,11 +158,11 @@
     "uptimeYear": "0.00%",
     "time": 96,
     "timeDay": 97,
-    "timeWeek": 95,
+    "timeWeek": 101,
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2023-02-14": 1250,
+      "2023-02-14": 1260,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
