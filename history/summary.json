@@ -22,9 +22,9 @@
     "url": "https://www.td.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.td.com.ico",
     "slug": "toronto-dominion-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 363,
     "timeMonth": 378,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-14": 0
+    }
   },
   {
     "name": "Bank of Nova Scotia",
@@ -160,7 +162,7 @@
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2023-02-14": 72,
+      "2023-02-14": 1250,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
