@@ -4,9 +4,9 @@
     "url": "https://www.rbcroyalbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rbcroyalbank.com.ico",
     "slug": "royal-bank-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 326,
     "timeMonth": 335,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-07": 0
+    }
   },
   {
     "name": "Toronto-Dominion Bank",
@@ -149,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cwbank.com.ico",
     "slug": "canadian-western-bank",
     "status": "down",
-    "uptime": "0.37%",
+    "uptime": "0.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.53%",
-    "uptimeMonth": "3.92%",
-    "uptimeYear": "0.37%",
+    "uptimeMonth": "6.48%",
+    "uptimeYear": "0.36%",
     "time": 116,
     "timeDay": 93,
     "timeWeek": 237,
     "timeMonth": 122,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-03-07": 77,
+      "2023-03-07": 1225,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
