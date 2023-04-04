@@ -22,19 +22,19 @@
     "url": "https://www.td.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.td.com.ico",
     "slug": "toronto-dominion-bank",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 3007,
-    "timeWeek": 1046,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 425,
+    "timeDay": 2187,
+    "timeWeek": 990,
     "timeMonth": 518,
-    "timeYear": 423,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2023-04-04": 0
+      "2023-04-04": 20
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 85,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2023-04-04": 834,
+      "2023-04-04": 855,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
