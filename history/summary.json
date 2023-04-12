@@ -134,9 +134,9 @@
     "url": "https://www.laurentianbank.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,7 +145,9 @@
     "timeWeek": 940,
     "timeMonth": 1144,
     "timeYear": 1027,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-12": 0
+    }
   },
   {
     "name": "Canadian Western Bank",
@@ -164,7 +166,7 @@
     "timeMonth": 85,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2023-04-12": 548,
+      "2023-04-12": 829,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
