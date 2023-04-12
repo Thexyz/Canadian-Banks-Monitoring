@@ -134,19 +134,19 @@
     "url": "https://www.laurentianbank.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1027,
-    "timeDay": 808,
-    "timeWeek": 940,
-    "timeMonth": 1144,
-    "timeYear": 1027,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1040,
+    "timeDay": 1409,
+    "timeWeek": 1073,
+    "timeMonth": 1171,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 12
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 85,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2023-04-12": 829,
+      "2023-04-12": 841,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
