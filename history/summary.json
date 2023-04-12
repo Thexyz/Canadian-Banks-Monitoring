@@ -134,7 +134,7 @@
     "url": "https://www.laurentianbank.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "96.99%",
     "uptimeWeek": "99.57%",
@@ -166,7 +166,7 @@
     "timeMonth": 85,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2023-04-12": 1136,
+      "2023-04-12": 1155,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
