@@ -13,7 +13,7 @@
     "time": 441,
     "timeDay": 257,
     "timeWeek": 355,
-    "timeMonth": 459,
+    "timeMonth": 464,
     "timeYear": 441,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 425,
     "timeDay": 645,
     "timeWeek": 491,
-    "timeMonth": 547,
+    "timeMonth": 549,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2023-04-12": 43,
@@ -53,7 +53,7 @@
     "time": 444,
     "timeDay": 199,
     "timeWeek": 368,
-    "timeMonth": 411,
+    "timeMonth": 407,
     "timeYear": 444,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 681,
     "timeDay": 476,
     "timeWeek": 551,
-    "timeMonth": 665,
+    "timeMonth": 676,
     "timeYear": 681,
     "dailyMinutesDown": {}
   },
@@ -107,7 +107,7 @@
     "time": 592,
     "timeDay": 856,
     "timeWeek": 805,
-    "timeMonth": 599,
+    "timeMonth": 596,
     "timeYear": 592,
     "dailyMinutesDown": {}
   },
@@ -125,7 +125,7 @@
     "time": 438,
     "timeDay": 368,
     "timeWeek": 487,
-    "timeMonth": 474,
+    "timeMonth": 481,
     "timeYear": 438,
     "dailyMinutesDown": {}
   },
@@ -134,19 +134,19 @@
     "url": "https://www.laurentianbank.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
-    "time": 1077,
-    "timeDay": 1337,
-    "timeWeek": 1346,
-    "timeMonth": 1224,
-    "timeYear": 1077,
+    "time": 1080,
+    "timeDay": 1336,
+    "timeWeek": 1345,
+    "timeMonth": 1229,
+    "timeYear": 1080,
     "dailyMinutesDown": {
-      "2023-04-16": 25,
+      "2023-04-16": 32,
       "2023-04-12": 43
     }
   },
@@ -167,7 +167,7 @@
     "timeMonth": 80,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2023-04-16": 1397,
+      "2023-04-16": 1404,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
