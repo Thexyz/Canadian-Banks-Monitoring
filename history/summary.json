@@ -80,19 +80,19 @@
     "url": "https://www.cibc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cibc.com.ico",
     "slug": "cibc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 421,
-    "timeWeek": 523,
-    "timeMonth": 540,
-    "timeYear": 597,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 596,
+    "timeDay": 424,
+    "timeWeek": 511,
+    "timeMonth": 536,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-06-10": 0
+      "2023-06-10": 12
     }
   },
   {
@@ -175,7 +175,7 @@
     "timeMonth": 80,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-06-10": 864,
+      "2023-06-10": 876,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
