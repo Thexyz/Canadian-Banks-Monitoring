@@ -116,18 +116,20 @@
     "url": "https://www.hsbc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 978,
-    "timeWeek": 930,
-    "timeMonth": 840,
-    "timeYear": 594,
-    "dailyMinutesDown": {}
+    "time": 595,
+    "timeDay": 889,
+    "timeWeek": 914,
+    "timeMonth": 839,
+    "timeYear": 595,
+    "dailyMinutesDown": {
+      "2023-07-18": 0
+    }
   },
   {
     "name": "Laurentian Bank of Canada",
@@ -174,7 +176,7 @@
     "timeMonth": 78,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-07-18": 103,
+      "2023-07-18": 1001,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
