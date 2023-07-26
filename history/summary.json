@@ -4,9 +4,9 @@
     "url": "https://www.rbcroyalbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rbcroyalbank.com.ico",
     "slug": "royal-bank-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 297,
     "timeMonth": 311,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Toronto-Dominion Bank",
@@ -176,7 +178,7 @@
     "timeMonth": 83,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-07-26": 69,
+      "2023-07-26": 655,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
