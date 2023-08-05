@@ -118,9 +118,9 @@
     "url": "https://www.hsbc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -130,6 +130,7 @@
     "timeMonth": 771,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2023-08-05": 0,
       "2023-07-18": 32
     }
   },
@@ -178,7 +179,7 @@
     "timeMonth": 82,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-08-05": 63,
+      "2023-08-05": 236,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
