@@ -1,7 +1,7 @@
 url: https://www.nbc.ca
-status: down
-code: 400
-responseTime: 435
-lastUpdated: 2023-08-17T17:43:00.889Z
+status: up
+code: 200
+responseTime: 591
+lastUpdated: 2023-08-17T17:55:19.711Z
 startTime: Mon Feb 06 2023 00:34:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
