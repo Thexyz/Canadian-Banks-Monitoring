@@ -101,18 +101,20 @@
     "url": "https://www.nbc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nbc.ca.ico",
     "slug": "national-bank-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 587,
-    "timeDay": 521,
-    "timeWeek": 434,
-    "timeMonth": 596,
+    "timeDay": 535,
+    "timeWeek": 448,
+    "timeMonth": 595,
     "timeYear": 587,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   },
   {
     "name": "HSBC Canada",
@@ -123,7 +125,7 @@
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.35%",
+    "uptimeMonth": "92.66%",
     "uptimeYear": "98.02%",
     "time": 625,
     "timeDay": 831,
@@ -186,7 +188,7 @@
     "timeMonth": 87,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-09-07": 54,
+      "2023-09-07": 189,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
