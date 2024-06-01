@@ -81,9 +81,9 @@
     "url": "https://www.cibc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cibc.com.ico",
     "slug": "cibc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +92,9 @@
     "timeWeek": 616,
     "timeMonth": 651,
     "timeYear": 587,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "National Bank of Canada",
@@ -100,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nbc.ca.ico",
     "slug": "national-bank-of-canada",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -149,15 +151,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
     "status": "up",
-    "uptime": "93.34%",
+    "uptime": "93.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.59%",
+    "uptimeMonth": "37.46%",
     "uptimeYear": "91.33%",
     "time": 1021,
     "timeDay": 512,
     "timeWeek": 822,
-    "timeMonth": 819,
+    "timeMonth": 865,
     "timeYear": 932,
     "dailyMinutesDown": {
       "2024-05-20": 1013,
@@ -213,7 +215,7 @@
     "timeMonth": 91,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-06-01": 65,
+      "2024-06-01": 977,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
