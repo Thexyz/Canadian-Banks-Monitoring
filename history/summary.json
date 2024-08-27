@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 381,
-    "timeDay": 309,
-    "timeWeek": 418,
-    "timeMonth": 335,
-    "timeYear": 392,
+    "timeDay": 227,
+    "timeWeek": 400,
+    "timeMonth": 333,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2024-05-17": 43
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 1087,
-    "timeWeek": 586,
-    "timeMonth": 398,
-    "timeYear": 422,
+    "time": 411,
+    "timeDay": 1051,
+    "timeWeek": 698,
+    "timeMonth": 401,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 414,
-    "timeWeek": 349,
-    "timeMonth": 316,
-    "timeYear": 367,
+    "timeDay": 707,
+    "timeWeek": 391,
+    "timeMonth": 330,
+    "timeYear": 368,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 761,
-    "timeWeek": 649,
-    "timeMonth": 753,
-    "timeYear": 900,
+    "time": 849,
+    "timeDay": 729,
+    "timeWeek": 673,
+    "timeMonth": 750,
+    "timeYear": 897,
     "dailyMinutesDown": {}
   },
   {
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
-    "timeDay": 919,
-    "timeWeek": 716,
-    "timeMonth": 593,
-    "timeYear": 594,
+    "timeDay": 709,
+    "timeWeek": 752,
+    "timeMonth": 601,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2024-06-01": 16
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 595,
-    "timeDay": 469,
-    "timeWeek": 598,
-    "timeMonth": 517,
-    "timeYear": 597,
+    "time": 596,
+    "timeDay": 1263,
+    "timeWeek": 699,
+    "timeMonth": 543,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2023-10-17": 18,
       "2023-09-28": 17,
@@ -126,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 472,
-    "timeWeek": 722,
-    "timeMonth": 754,
-    "timeYear": 774,
+    "time": 769,
+    "timeDay": 1658,
+    "timeWeek": 878,
+    "timeMonth": 788,
+    "timeYear": 776,
     "dailyMinutesDown": {}
   },
   {
@@ -139,16 +139,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
     "status": "up",
-    "uptime": "94.35%",
+    "uptime": "94.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.34%",
-    "time": 933,
-    "timeDay": 666,
-    "timeWeek": 883,
-    "timeMonth": 813,
-    "timeYear": 923,
+    "time": 934,
+    "timeDay": 1640,
+    "timeWeek": 1030,
+    "timeMonth": 844,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2024-05-20": 1013,
       "2024-05-19": 1440,
@@ -197,12 +197,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 87,
-    "timeDay": 75,
-    "timeWeek": 107,
-    "timeMonth": 103,
+    "timeDay": 152,
+    "timeWeek": 121,
+    "timeMonth": 105,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-08-26": 67,
+      "2024-08-27": 68,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -565,8 +566,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   }
 ]
