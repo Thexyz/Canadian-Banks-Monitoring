@@ -60,9 +60,9 @@
     "url": "https://www.bmo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 601,
     "timeMonth": 659,
     "timeYear": 892,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   },
   {
     "name": "CIBC",
@@ -138,7 +140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
     "status": "up",
-    "uptime": "94.45%",
+    "uptime": "94.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -201,7 +203,7 @@
     "timeMonth": 99,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-09-06": 69,
+      "2024-09-06": 117,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
