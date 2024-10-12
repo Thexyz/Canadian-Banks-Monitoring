@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 372,
-    "timeDay": 254,
-    "timeWeek": 318,
-    "timeMonth": 311,
-    "timeYear": 387,
+    "timeDay": 281,
+    "timeWeek": 316,
+    "timeMonth": 307,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2024-05-17": 43
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 430,
-    "timeDay": 420,
-    "timeWeek": 506,
-    "timeMonth": 612,
-    "timeYear": 451,
+    "timeDay": 421,
+    "timeWeek": 522,
+    "timeMonth": 619,
+    "timeYear": 450,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 172,
-    "timeWeek": 287,
-    "timeMonth": 304,
-    "timeYear": 353,
+    "timeDay": 257,
+    "timeWeek": 267,
+    "timeMonth": 298,
+    "timeYear": 352,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "94.30%",
+    "uptime": "94.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.42%",
+    "uptimeYear": "90.15%",
     "time": 857,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 880,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2024-10-11": 73,
+      "2024-10-12": 72,
+      "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -121,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 715,
-    "timeWeek": 817,
-    "timeMonth": 583,
-    "timeYear": 590,
+    "time": 604,
+    "timeDay": 4251,
+    "timeWeek": 1279,
+    "timeMonth": 703,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2024-06-01": 16
     }
@@ -142,10 +143,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 581,
-    "timeDay": 451,
-    "timeWeek": 481,
-    "timeMonth": 434,
-    "timeYear": 555,
+    "timeDay": 302,
+    "timeWeek": 444,
+    "timeMonth": 436,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2023-10-17": 18
     }
@@ -162,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 759,
-    "timeDay": 731,
-    "timeWeek": 633,
-    "timeMonth": 763,
+    "timeDay": 637,
+    "timeWeek": 683,
+    "timeMonth": 770,
     "timeYear": 768,
     "dailyMinutesDown": {}
   },
@@ -174,15 +175,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
     "status": "up",
-    "uptime": "94.77%",
+    "uptime": "94.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.34%",
-    "time": 913,
-    "timeDay": 652,
-    "timeWeek": 738,
-    "timeMonth": 847,
+    "time": 911,
+    "timeDay": 670,
+    "timeWeek": 744,
+    "timeMonth": 843,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2024-05-20": 1013,
@@ -232,12 +233,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 89,
-    "timeDay": 85,
-    "timeWeek": 95,
+    "timeDay": 145,
+    "timeWeek": 108,
     "timeMonth": 98,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-10-11": 73,
+      "2024-10-12": 72,
+      "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -600,8 +602,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   }
 ]
