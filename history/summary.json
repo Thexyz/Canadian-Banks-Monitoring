@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 367,
-    "timeDay": 303,
-    "timeWeek": 269,
-    "timeMonth": 288,
-    "timeYear": 370,
+    "timeDay": 375,
+    "timeWeek": 312,
+    "timeMonth": 295,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2024-05-17": 43
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 1664,
-    "timeWeek": 660,
-    "timeMonth": 495,
-    "timeYear": 476,
+    "time": 456,
+    "timeDay": 1347,
+    "timeWeek": 723,
+    "timeMonth": 531,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 144,
+    "time": 353,
+    "timeDay": 245,
     "timeWeek": 326,
-    "timeMonth": 263,
-    "timeYear": 334,
+    "timeMonth": 266,
+    "timeYear": 333,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "86.37%",
+    "uptime": "86.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.00%",
-    "time": 875,
+    "uptimeYear": "74.80%",
+    "time": 876,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 847,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2024-12-06": 453,
+      "2024-12-07": 79,
+      "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -177,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 369,
-    "timeWeek": 553,
-    "timeMonth": 696,
-    "timeYear": 612,
+    "time": 615,
+    "timeDay": 972,
+    "timeWeek": 567,
+    "timeMonth": 694,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-06-01": 16
     }
@@ -198,10 +199,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 569,
-    "timeDay": 402,
-    "timeWeek": 553,
-    "timeMonth": 483,
-    "timeYear": 532,
+    "timeDay": 400,
+    "timeWeek": 567,
+    "timeMonth": 485,
+    "timeYear": 531,
     "dailyMinutesDown": {}
   },
   {
@@ -216,10 +217,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 737,
-    "timeDay": 382,
-    "timeWeek": 452,
-    "timeMonth": 463,
-    "timeYear": 734,
+    "timeDay": 307,
+    "timeWeek": 423,
+    "timeMonth": 459,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   },
   {
@@ -234,10 +235,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "91.33%",
     "time": 907,
-    "timeDay": 790,
-    "timeWeek": 799,
-    "timeMonth": 808,
-    "timeYear": 867,
+    "timeDay": 781,
+    "timeWeek": 759,
+    "timeMonth": 811,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2024-12-06": 53,
       "2024-05-20": 1013,
@@ -287,12 +288,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 92,
-    "timeDay": 123,
-    "timeWeek": 113,
-    "timeMonth": 106,
+    "timeDay": 76,
+    "timeWeek": 116,
+    "timeMonth": 104,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-12-06": 453,
+      "2024-12-07": 79,
+      "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -655,8 +657,7 @@
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
-      "2023-12-09": 1440,
-      "2023-12-08": 1440
+      "2023-12-09": 1440
     }
   }
 ]
