@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "83.42%",
+    "uptime": "83.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.52%",
+    "uptimeYear": "68.50%",
     "time": 892,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-12-29": 1409,
+      "2024-12-30": 76,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -234,18 +235,16 @@
     "slug": "hsbc-canada",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 733,
     "timeDay": 333,
     "timeWeek": 424,
     "timeMonth": 530,
     "timeYear": 708,
-    "dailyMinutesDown": {
-      "2024-12-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Laurentian Bank of Canada",
@@ -317,7 +316,8 @@
     "timeMonth": 96,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2024-12-29": 1409,
+      "2024-12-30": 76,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -680,8 +680,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   }
 ]
