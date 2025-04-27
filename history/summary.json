@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "71.28%",
+    "uptime": "71.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.19%",
+    "uptimeYear": "36.17%",
     "time": 840,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2025-04-26": 1431,
+      "2025-04-27": 75,
+      "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -350,19 +351,20 @@
     "url": "https://www.hsbc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.86%",
-    "time": 641,
-    "timeDay": 644,
-    "timeWeek": 540,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "99.85%",
+    "time": 640,
+    "timeDay": 599,
+    "timeWeek": 538,
     "timeMonth": 510,
-    "timeYear": 616,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2025-04-26": 0,
+      "2025-04-27": 75,
+      "2025-04-26": 9,
       "2025-04-22": 22,
       "2025-04-21": 18,
       "2025-04-18": 44,
@@ -396,7 +398,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.28%",
+    "uptimeYear": "93.30%",
     "time": 869,
     "timeDay": 1196,
     "timeWeek": 819,
@@ -428,8 +430,7 @@
       "2024-05-01": 1348,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
-      "2024-04-28": 1440,
-      "2024-04-27": 1440
+      "2024-04-28": 1440
     }
   },
   {
@@ -449,7 +450,8 @@
     "timeMonth": 119,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2025-04-26": 1432,
+      "2025-04-27": 75,
+      "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -812,8 +814,7 @@
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
-      "2024-04-28": 1440,
-      "2024-04-27": 1440
+      "2024-04-28": 1440
     }
   }
 ]
