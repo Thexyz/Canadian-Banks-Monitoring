@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 235,
-    "timeWeek": 271,
-    "timeMonth": 331,
-    "timeYear": 247,
+    "timeDay": 111,
+    "timeWeek": 238,
+    "timeMonth": 317,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2025-07-24": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 227,
-    "timeWeek": 321,
-    "timeMonth": 382,
-    "timeYear": 404,
+    "time": 434,
+    "timeDay": 260,
+    "timeWeek": 325,
+    "timeMonth": 380,
+    "timeYear": 403,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 170,
-    "timeWeek": 256,
-    "timeMonth": 269,
-    "timeYear": 251,
+    "timeDay": 201,
+    "timeWeek": 251,
+    "timeMonth": 254,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "56.95%",
+    "uptime": "56.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 757,
+    "time": 762,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 86,
+      "2025-11-18": 85,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -435,8 +436,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -451,10 +451,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 539,
-    "timeDay": 989,
-    "timeWeek": 646,
-    "timeMonth": 543,
-    "timeYear": 491,
+    "timeDay": 528,
+    "timeWeek": 623,
+    "timeMonth": 544,
+    "timeYear": 490,
     "dailyMinutesDown": {}
   },
   {
@@ -469,8 +469,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
-    "timeDay": 198,
-    "timeWeek": 304,
+    "timeDay": 327,
+    "timeWeek": 303,
     "timeMonth": 311,
     "timeYear": 321,
     "dailyMinutesDown": {}
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "86.81%",
+    "uptime": "86.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.49%",
+    "uptimeYear": "64.21%",
     "time": 563,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2025-11-17": 86,
+      "2025-11-18": 85,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -666,9 +667,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 881,
-    "timeDay": 909,
-    "timeWeek": 969,
-    "timeMonth": 985,
+    "timeDay": 668,
+    "timeWeek": 919,
+    "timeMonth": 976,
     "timeYear": 896,
     "dailyMinutesDown": {
       "2025-03-12": 35,
@@ -688,12 +689,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 116,
-    "timeDay": 81,
-    "timeWeek": 150,
-    "timeMonth": 164,
-    "timeYear": 121,
+    "timeDay": 88,
+    "timeWeek": 146,
+    "timeMonth": 162,
+    "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-11-17": 86,
+      "2025-11-18": 85,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -1056,8 +1058,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   }
 ]
