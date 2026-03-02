@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 244,
-    "timeDay": 161,
+    "timeDay": 152,
     "timeWeek": 216,
-    "timeMonth": 247,
+    "timeMonth": 246,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2025-07-24": 29
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 74,
-    "timeWeek": 304,
-    "timeMonth": 226,
-    "timeYear": 331,
+    "timeDay": 251,
+    "timeWeek": 296,
+    "timeMonth": 227,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 95,
-    "timeWeek": 266,
-    "timeMonth": 233,
+    "timeDay": 322,
+    "timeWeek": 277,
+    "timeMonth": 238,
     "timeYear": 241,
     "dailyMinutesDown": {}
   },
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "51.66%",
+    "uptime": "51.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 131,
+      "2026-03-02": 122,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -435,8 +436,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -451,10 +451,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
-    "timeDay": 164,
-    "timeWeek": 470,
-    "timeMonth": 579,
-    "timeYear": 483,
+    "timeDay": 655,
+    "timeWeek": 447,
+    "timeMonth": 578,
+    "timeYear": 484,
     "dailyMinutesDown": {}
   },
   {
@@ -469,9 +469,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 242,
-    "timeWeek": 306,
-    "timeMonth": 254,
+    "timeDay": 335,
+    "timeWeek": 307,
+    "timeMonth": 262,
     "timeYear": 281,
     "dailyMinutesDown": {}
   },
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "78.74%",
+    "uptime": "78.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "36.00%",
+    "uptimeYear": "35.74%",
     "time": 528,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 528,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2026-03-01": 132,
+      "2026-03-02": 122,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -749,8 +750,7 @@
       "2025-03-15": 18,
       "2025-03-10": 25,
       "2025-03-08": 20,
-      "2025-03-04": 17,
-      "2025-03-02": 39
+      "2025-03-04": 17
     }
   },
   {
@@ -761,13 +761,13 @@
     "status": "up",
     "uptime": "97.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.74%",
-    "time": 899,
-    "timeDay": 1337,
-    "timeWeek": 830,
-    "timeMonth": 786,
+    "time": 898,
+    "timeDay": 920,
+    "timeWeek": 861,
+    "timeMonth": 795,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2026-02-27": 42,
@@ -789,12 +789,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 122,
-    "timeDay": 120,
-    "timeWeek": 127,
-    "timeMonth": 129,
+    "timeDay": 128,
+    "timeWeek": 128,
+    "timeMonth": 127,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-03-01": 132,
+      "2026-03-02": 122,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -1157,8 +1158,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   }
 ]
