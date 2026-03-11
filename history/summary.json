@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 242,
-    "timeDay": 200,
-    "timeWeek": 236,
-    "timeMonth": 200,
+    "time": 243,
+    "timeDay": 248,
+    "timeWeek": 222,
+    "timeMonth": 204,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-07-24": 29
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 375,
-    "timeWeek": 239,
-    "timeMonth": 235,
+    "time": 380,
+    "timeDay": 94,
+    "timeWeek": 221,
+    "timeMonth": 234,
     "timeYear": 324,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
-    "timeDay": 303,
-    "timeWeek": 266,
+    "timeDay": 359,
+    "timeWeek": 264,
     "timeMonth": 256,
-    "timeYear": 241,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "51.24%",
+    "uptime": "51.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-10": 116,
+      "2026-03-11": 116,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -435,8 +436,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
-      "2025-03-12": 1440,
-      "2025-03-11": 1440
+      "2025-03-12": 1440
     }
   },
   {
@@ -450,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 690,
-    "timeWeek": 361,
-    "timeMonth": 490,
-    "timeYear": 482,
+    "time": 509,
+    "timeDay": 140,
+    "timeWeek": 321,
+    "timeMonth": 480,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -468,10 +468,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 309,
-    "timeWeek": 305,
-    "timeMonth": 284,
+    "time": 321,
+    "timeDay": 302,
+    "timeWeek": 294,
+    "timeMonth": 290,
     "timeYear": 281,
     "dailyMinutesDown": {}
   },
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "78.12%",
+    "uptime": "78.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "33.56%",
-    "time": 530,
+    "uptimeYear": "33.29%",
+    "time": 529,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 536,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2026-03-10": 116,
+      "2026-03-11": 116,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -764,22 +765,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 896,
-    "timeDay": 994,
-    "timeWeek": 775,
-    "timeMonth": 781,
+    "timeDay": 525,
+    "timeWeek": 763,
+    "timeMonth": 779,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2026-02-27": 42,
       "2026-02-22": 31,
       "2025-12-15": 70,
-      "2025-03-12": 35,
-      "2025-03-11": 1170
+      "2025-03-12": 35
     }
   },
   {
@@ -794,12 +794,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 122,
-    "timeDay": 114,
-    "timeWeek": 138,
-    "timeMonth": 129,
+    "timeDay": 58,
+    "timeWeek": 123,
+    "timeMonth": 123,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-03-10": 116,
+      "2026-03-11": 116,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -1162,8 +1163,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
-      "2025-03-12": 1440,
-      "2025-03-11": 1440
+      "2025-03-12": 1440
     }
   }
 ]
