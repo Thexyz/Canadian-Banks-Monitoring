@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 241,
-    "timeDay": 151,
-    "timeWeek": 174,
-    "timeMonth": 203,
-    "timeYear": 242,
+    "time": 240,
+    "timeDay": 49,
+    "timeWeek": 172,
+    "timeMonth": 192,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2025-07-24": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 287,
-    "timeWeek": 466,
-    "timeMonth": 299,
-    "timeYear": 328,
+    "time": 371,
+    "timeDay": 97,
+    "timeWeek": 472,
+    "timeMonth": 285,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
-    "timeDay": 236,
-    "timeWeek": 221,
-    "timeMonth": 261,
-    "timeYear": 241,
+    "timeDay": 151,
+    "timeWeek": 229,
+    "timeMonth": 248,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "50.58%",
+    "uptime": "50.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 1256,
+      "2026-03-25": 127,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -435,8 +436,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   },
   {
@@ -450,10 +450,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 176,
-    "timeWeek": 429,
-    "timeMonth": 386,
+    "time": 500,
+    "timeDay": 162,
+    "timeWeek": 378,
+    "timeMonth": 374,
     "timeYear": 482,
     "dailyMinutesDown": {}
   },
@@ -468,11 +468,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 218,
-    "timeWeek": 269,
-    "timeMonth": 285,
-    "timeYear": 278,
+    "time": 317,
+    "timeDay": 112,
+    "timeWeek": 242,
+    "timeMonth": 274,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   },
   {
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "77.10%",
+    "uptime": "77.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "29.53%",
-    "time": 530,
+    "uptimeYear": "29.47%",
+    "time": 531,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 542,
+    "timeYear": 543,
     "dailyMinutesDown": {
-      "2026-03-24": 1256,
+      "2026-03-25": 127,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -781,10 +782,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 893,
-    "timeDay": 551,
-    "timeWeek": 719,
-    "timeMonth": 753,
+    "time": 892,
+    "timeDay": 931,
+    "timeWeek": 691,
+    "timeMonth": 760,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2026-02-27": 42,
@@ -804,12 +805,13 @@
     "uptimeMonth": "8.07%",
     "uptimeYear": "0.01%",
     "time": 123,
-    "timeDay": 178,
+    "timeDay": 171,
     "timeWeek": 142,
-    "timeMonth": 133,
-    "timeYear": 131,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-03-24": 1204,
+      "2026-03-25": 127,
+      "2026-03-24": 1389,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -1172,8 +1174,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   }
 ]
