@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 240,
-    "timeDay": 163,
-    "timeWeek": 497,
-    "timeMonth": 274,
+    "timeDay": 276,
+    "timeWeek": 510,
+    "timeMonth": 278,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2025-07-24": 29
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 195,
-    "timeWeek": 322,
-    "timeMonth": 277,
-    "timeYear": 321,
+    "time": 354,
+    "timeDay": 205,
+    "timeWeek": 284,
+    "timeMonth": 279,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 148,
-    "timeWeek": 273,
-    "timeMonth": 286,
+    "timeDay": 223,
+    "timeWeek": 280,
+    "timeMonth": 290,
     "timeYear": 244,
     "dailyMinutesDown": {}
   },
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "49.24%",
+    "uptime": "49.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-25": 144,
+      "2026-04-26": 159,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -435,8 +436,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
@@ -450,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 464,
-    "timeWeek": 452,
-    "timeMonth": 468,
-    "timeYear": 478,
+    "time": 489,
+    "timeDay": 855,
+    "timeWeek": 546,
+    "timeMonth": 477,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   },
   {
@@ -468,10 +468,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 111,
-    "timeWeek": 330,
-    "timeMonth": 274,
+    "time": 302,
+    "timeDay": 144,
+    "timeWeek": 313,
+    "timeMonth": 273,
     "timeYear": 276,
     "dailyMinutesDown": {}
   },
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "75.05%",
+    "uptime": "74.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.05%",
-    "time": 536,
+    "uptimeYear": "20.77%",
+    "time": 537,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 571,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2026-04-25": 144,
+      "2026-04-26": 159,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -788,8 +789,7 @@
       "2025-05-05": 102,
       "2025-05-04": 88,
       "2025-05-03": 10,
-      "2025-04-27": 75,
-      "2025-04-26": 9
+      "2025-04-27": 75
     }
   },
   {
@@ -803,11 +803,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 880,
-    "timeDay": 1195,
-    "timeWeek": 782,
-    "timeMonth": 764,
-    "timeYear": 887,
+    "time": 879,
+    "timeDay": 552,
+    "timeWeek": 779,
+    "timeMonth": 741,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2026-02-27": 42,
       "2026-02-22": 31,
@@ -821,17 +821,18 @@
     "slug": "canadian-western-bank",
     "status": "down",
     "uptime": "0.02%",
-    "uptimeDay": "6.26%",
-    "uptimeWeek": "0.95%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.89%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.04%",
     "time": 127,
-    "timeDay": 238,
-    "timeWeek": 198,
-    "timeMonth": 157,
+    "timeDay": 61,
+    "timeWeek": 167,
+    "timeMonth": 154,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-04-25": 144,
+      "2026-04-26": 159,
+      "2026-04-25": 1440,
       "2026-04-24": 1350,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -1194,8 +1195,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   }
 ]
