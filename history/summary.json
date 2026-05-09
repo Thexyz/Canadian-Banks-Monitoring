@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 240,
-    "timeDay": 203,
-    "timeWeek": 173,
-    "timeMonth": 287,
-    "timeYear": 248,
+    "time": 238,
+    "timeDay": 103,
+    "timeWeek": 168,
+    "timeMonth": 277,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2025-07-24": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 588,
-    "timeWeek": 306,
-    "timeMonth": 305,
-    "timeYear": 321,
+    "time": 348,
+    "timeDay": 232,
+    "timeWeek": 310,
+    "timeMonth": 302,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 438,
-    "timeWeek": 227,
-    "timeMonth": 237,
+    "timeDay": 98,
+    "timeWeek": 221,
+    "timeMonth": 235,
     "timeYear": 243,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-08": 1394,
+      "2026-05-09": 13,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -435,8 +436,7 @@
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   },
   {
@@ -450,10 +450,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 977,
-    "timeWeek": 520,
-    "timeMonth": 488,
+    "time": 486,
+    "timeDay": 200,
+    "timeWeek": 466,
+    "timeMonth": 481,
     "timeYear": 483,
     "dailyMinutesDown": {}
   },
@@ -468,10 +468,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 321,
-    "timeWeek": 280,
-    "timeMonth": 287,
+    "time": 300,
+    "timeDay": 585,
+    "timeWeek": 339,
+    "timeMonth": 297,
     "timeYear": 280,
     "dailyMinutesDown": {}
   },
@@ -485,14 +485,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.31%",
-    "time": 537,
+    "uptimeYear": "17.30%",
+    "time": 539,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 576,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2026-05-08": 1394,
+      "2026-05-09": 13,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -795,8 +796,7 @@
       "2025-07-12": 1440,
       "2025-07-11": 1084,
       "2025-05-11": 104,
-      "2025-05-10": 22,
-      "2025-05-09": 22
+      "2025-05-10": 22
     }
   },
   {
@@ -811,10 +811,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 880,
-    "timeDay": 1184,
-    "timeWeek": 1032,
-    "timeMonth": 809,
-    "timeYear": 889,
+    "timeDay": 783,
+    "timeWeek": 965,
+    "timeMonth": 789,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2026-02-27": 42,
       "2026-02-22": 31,
@@ -826,18 +826,19 @@
     "url": "https://www.cwbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cwbank.com.ico",
     "slug": "canadian-western-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "0.06%",
-    "uptimeDay": "8.30%",
-    "uptimeWeek": "5.30%",
-    "uptimeMonth": "2.98%",
-    "uptimeYear": "0.15%",
+    "uptimeDay": "9.29%",
+    "uptimeWeek": "5.88%",
+    "uptimeMonth": "3.10%",
+    "uptimeYear": "0.17%",
     "time": 136,
-    "timeDay": 279,
-    "timeWeek": 192,
-    "timeMonth": 215,
+    "timeDay": 241,
+    "timeWeek": 199,
+    "timeMonth": 214,
     "timeYear": 143,
     "dailyMinutesDown": {
+      "2026-05-09": 0,
       "2026-05-08": 1319,
       "2026-05-07": 1146,
       "2026-05-06": 1277,
@@ -1201,8 +1202,7 @@
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   }
 ]
