@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 222,
-    "timeWeek": 148,
+    "timeDay": 232,
+    "timeWeek": 154,
     "timeMonth": 256,
     "timeYear": 246,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 511,
-    "timeWeek": 262,
+    "timeDay": 571,
+    "timeWeek": 266,
     "timeMonth": 303,
     "timeYear": 319,
     "dailyMinutesDown": {}
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 273,
-    "timeWeek": 162,
+    "timeDay": 166,
+    "timeWeek": 171,
     "timeMonth": 219,
     "timeYear": 242,
     "dailyMinutesDown": {}
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1439,
+      "2026-05-16": 147,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -435,8 +436,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -451,8 +451,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 484,
-    "timeDay": 400,
-    "timeWeek": 413,
+    "timeDay": 306,
+    "timeWeek": 443,
     "timeMonth": 474,
     "timeYear": 486,
     "dailyMinutesDown": {}
@@ -469,8 +469,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 449,
-    "timeWeek": 269,
+    "timeDay": 340,
+    "timeWeek": 224,
     "timeMonth": 293,
     "timeYear": 280,
     "dailyMinutesDown": {}
@@ -485,14 +485,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.41%",
+    "uptimeYear": "15.38%",
     "time": 540,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2026-05-15": 1439,
+      "2026-05-16": 147,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -815,8 +816,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 880,
-    "timeDay": 1186,
-    "timeWeek": 828,
+    "timeDay": 1302,
+    "timeWeek": 834,
     "timeMonth": 858,
     "timeYear": 887,
     "dailyMinutesDown": {
@@ -830,19 +831,20 @@
     "url": "https://www.cwbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cwbank.com.ico",
     "slug": "canadian-western-bank",
-    "status": "down",
+    "status": "up",
     "uptime": "0.09%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "5.41%",
+    "uptimeDay": "0.55%",
+    "uptimeWeek": "5.28%",
     "uptimeMonth": "4.32%",
     "uptimeYear": "0.27%",
     "time": 131,
-    "timeDay": 165,
-    "timeWeek": 132,
-    "timeMonth": 194,
+    "timeDay": 248,
+    "timeWeek": 135,
+    "timeMonth": 196,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-05-15": 1431,
+      "2026-05-16": 147,
+      "2026-05-15": 1432,
       "2026-05-14": 1432,
       "2026-05-13": 1431,
       "2026-05-12": 1298,
@@ -1205,8 +1207,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   }
 ]
