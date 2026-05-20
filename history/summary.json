@@ -13,7 +13,7 @@
     "time": 237,
     "timeDay": 301,
     "timeWeek": 222,
-    "timeMonth": 270,
+    "timeMonth": 271,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2025-07-24": 29
@@ -33,8 +33,8 @@
     "time": 345,
     "timeDay": 419,
     "timeWeek": 325,
-    "timeMonth": 302,
-    "timeYear": 319,
+    "timeMonth": 299,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -51,7 +51,7 @@
     "time": 247,
     "timeDay": 411,
     "timeWeek": 213,
-    "timeMonth": 222,
+    "timeMonth": 220,
     "timeYear": 242,
     "dailyMinutesDown": {}
   },
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "48.22%",
+    "uptime": "48.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 1210,
+      "2026-05-20": 3,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -435,8 +436,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -453,8 +453,8 @@
     "time": 482,
     "timeDay": 404,
     "timeWeek": 359,
-    "timeMonth": 457,
-    "timeYear": 486,
+    "timeMonth": 450,
+    "timeYear": 485,
     "dailyMinutesDown": {}
   },
   {
@@ -471,7 +471,7 @@
     "time": 295,
     "timeDay": 265,
     "timeWeek": 257,
-    "timeMonth": 293,
+    "timeMonth": 282,
     "timeYear": 279,
     "dailyMinutesDown": {}
   },
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "73.51%",
+    "uptime": "73.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "14.36%",
+    "uptimeYear": "14.31%",
     "time": 539,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 576,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2026-05-19": 1210,
+      "2026-05-20": 3,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -821,8 +822,8 @@
     "time": 871,
     "timeDay": 796,
     "timeWeek": 777,
-    "timeMonth": 833,
-    "timeYear": 885,
+    "timeMonth": 840,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2026-02-27": 42,
       "2026-02-22": 31,
@@ -834,19 +835,20 @@
     "url": "https://www.cwbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cwbank.com.ico",
     "slug": "canadian-western-bank",
-    "status": "down",
+    "status": "up",
     "uptime": "0.21%",
-    "uptimeDay": "22.55%",
-    "uptimeWeek": "21.04%",
+    "uptimeDay": "16.95%",
+    "uptimeWeek": "20.88%",
     "uptimeMonth": "9.06%",
     "uptimeYear": "0.66%",
     "time": 133,
-    "timeDay": 211,
+    "timeDay": 138,
     "timeWeek": 170,
-    "timeMonth": 189,
+    "timeMonth": 191,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2026-05-19": 963,
+      "2026-05-20": 3,
+      "2026-05-19": 1194,
       "2026-05-18": 618,
       "2026-05-17": 837,
       "2026-05-16": 1029,
@@ -1209,8 +1211,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   }
 ]
