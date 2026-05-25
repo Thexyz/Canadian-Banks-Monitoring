@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 236,
-    "timeDay": 196,
-    "timeWeek": 224,
-    "timeMonth": 202,
-    "timeYear": 247,
+    "time": 237,
+    "timeDay": 195,
+    "timeWeek": 225,
+    "timeMonth": 203,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2025-07-24": 29
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 140,
-    "timeWeek": 343,
-    "timeMonth": 305,
+    "timeDay": 214,
+    "timeWeek": 332,
+    "timeMonth": 306,
     "timeYear": 320,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 70,
-    "timeWeek": 213,
-    "timeMonth": 201,
+    "time": 244,
+    "timeDay": 231,
+    "timeWeek": 229,
+    "timeMonth": 204,
     "timeYear": 242,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 1397,
+      "2026-05-25": 6,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -435,8 +436,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   },
   {
@@ -450,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 725,
-    "timeWeek": 541,
-    "timeMonth": 480,
-    "timeYear": 489,
+    "time": 480,
+    "timeDay": 742,
+    "timeWeek": 621,
+    "timeMonth": 489,
+    "timeYear": 490,
     "dailyMinutesDown": {}
   },
   {
@@ -468,11 +468,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 79,
-    "timeWeek": 192,
+    "time": 292,
+    "timeDay": 113,
+    "timeWeek": 179,
     "timeMonth": 258,
-    "timeYear": 279,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -485,14 +485,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.95%",
+    "uptimeYear": "12.94%",
     "time": 542,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 576,
+    "timeYear": 563,
     "dailyMinutesDown": {
-      "2026-05-24": 1397,
+      "2026-05-25": 6,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -817,22 +818,23 @@
     "url": "https://www.laurentianbank.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbank.ca.ico",
     "slug": "laurentian-bank-of-canada",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "97.25%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.96%",
     "time": 871,
-    "timeDay": 533,
-    "timeWeek": 789,
-    "timeMonth": 847,
+    "timeDay": 607,
+    "timeWeek": 791,
+    "timeMonth": 828,
     "timeYear": 884,
     "dailyMinutesDown": {
       "2025-12-15": 70,
       "2026-02-22": 31,
       "2026-02-27": 42,
-      "2026-05-24": 1
+      "2026-05-25": 6,
+      "2026-05-24": 43
     }
   },
   {
@@ -843,13 +845,13 @@
     "status": "down",
     "uptime": "0.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "20.60%",
+    "uptimeWeek": "20.42%",
     "uptimeMonth": "11.11%",
     "uptimeYear": "0.85%",
     "time": 134,
-    "timeDay": 15,
-    "timeWeek": 156,
-    "timeMonth": 185,
+    "timeDay": 20,
+    "timeWeek": 160,
+    "timeMonth": 184,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2026-03-24": 1389,
@@ -1155,7 +1157,6 @@
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
-      "2025-05-25": 1440,
       "2026-04-01": 1382,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -1216,7 +1217,8 @@
       "2026-05-21": 874,
       "2026-05-22": 1090,
       "2026-05-23": 1378,
-      "2026-05-24": 1397
+      "2026-05-25": 6,
+      "2026-05-24": 1440
     }
   }
 ]
