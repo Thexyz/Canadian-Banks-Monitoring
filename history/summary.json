@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 16,
+      "2026-05-26": 207,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -481,18 +481,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "73.13%",
+    "uptime": "73.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.67%",
+    "uptimeYear": "12.63%",
     "time": 543,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2026-05-26": 16,
+      "2026-05-26": 207,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1219,7 +1219,7 @@
       "2026-05-23": 1378,
       "2026-05-25": 1160,
       "2026-05-24": 1440,
-      "2026-05-26": 12
+      "2026-05-26": 204
     }
   }
 ]
