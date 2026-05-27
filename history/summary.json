@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 210,
-    "timeWeek": 212,
-    "timeMonth": 196,
-    "timeYear": 248,
+    "timeDay": 129,
+    "timeWeek": 202,
+    "timeMonth": 194,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2025-07-24": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 345,
-    "timeWeek": 321,
-    "timeMonth": 309,
-    "timeYear": 321,
+    "time": 343,
+    "timeDay": 200,
+    "timeWeek": 295,
+    "timeMonth": 306,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 177,
-    "timeWeek": 195,
+    "timeDay": 170,
+    "timeWeek": 204,
     "timeMonth": 194,
     "timeYear": 240,
     "dailyMinutesDown": {}
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 1434,
+      "2026-05-27": 221,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -435,8 +436,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -450,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 353,
-    "timeWeek": 614,
-    "timeMonth": 463,
-    "timeYear": 490,
+    "time": 481,
+    "timeDay": 834,
+    "timeWeek": 605,
+    "timeMonth": 475,
+    "timeYear": 491,
     "dailyMinutesDown": {}
   },
   {
@@ -468,10 +468,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 152,
-    "timeWeek": 163,
-    "timeMonth": 251,
+    "time": 291,
+    "timeDay": 170,
+    "timeWeek": 167,
+    "timeMonth": 248,
     "timeYear": 278,
     "dailyMinutesDown": {}
   },
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "73.07%",
+    "uptime": "73.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.40%",
+    "uptimeYear": "12.35%",
     "time": 543,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2026-05-26": 1434,
+      "2026-05-27": 221,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -825,11 +826,11 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
-    "time": 870,
-    "timeDay": 693,
-    "timeWeek": 776,
-    "timeMonth": 832,
-    "timeYear": 884,
+    "time": 872,
+    "timeDay": 1278,
+    "timeWeek": 878,
+    "timeMonth": 846,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2025-12-15": 70,
       "2026-02-22": 31,
@@ -845,14 +846,14 @@
     "slug": "canadian-western-bank",
     "status": "down",
     "uptime": "0.30%",
-    "uptimeDay": "18.72%",
-    "uptimeWeek": "15.26%",
+    "uptimeDay": "18.46%",
+    "uptimeWeek": "15.16%",
     "uptimeMonth": "12.37%",
     "uptimeYear": "0.96%",
     "time": 136,
-    "timeDay": 164,
-    "timeWeek": 175,
-    "timeMonth": 188,
+    "timeDay": 124,
+    "timeWeek": 173,
+    "timeMonth": 186,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2026-03-24": 1389,
@@ -1156,7 +1157,6 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
       "2026-04-01": 1382,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -1219,7 +1219,8 @@
       "2026-05-23": 1378,
       "2026-05-25": 1160,
       "2026-05-24": 1440,
-      "2026-05-26": 1165
+      "2026-05-26": 1171,
+      "2026-05-27": 221
     }
   }
 ]
