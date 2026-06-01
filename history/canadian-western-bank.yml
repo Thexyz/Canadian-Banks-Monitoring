@@ -1,7 +1,7 @@
 url: https://www.cwbank.com
-status: up
-code: 200
-responseTime: 239
-lastUpdated: 2026-06-01T01:36:34.362Z
+status: down
+code: 403
+responseTime: 56
+lastUpdated: 2026-06-01T06:32:51.480Z
 startTime: 2023-02-06T00:34:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
