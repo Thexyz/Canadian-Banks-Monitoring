@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 238,
-    "timeDay": 235,
-    "timeWeek": 177,
-    "timeMonth": 239,
+    "time": 237,
+    "timeDay": 148,
+    "timeWeek": 174,
+    "timeMonth": 238,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-07-24": 29
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 330,
-    "timeWeek": 288,
-    "timeMonth": 291,
+    "time": 334,
+    "timeDay": 225,
+    "timeWeek": 301,
+    "timeMonth": 286,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 141,
-    "timeWeek": 235,
-    "timeMonth": 211,
+    "timeDay": 137,
+    "timeWeek": 226,
+    "timeMonth": 210,
     "timeYear": 237,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-22": 1376,
+      "2026-06-23": 209,
+      "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
@@ -435,8 +436,7 @@
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
-      "2025-06-24": 1440,
-      "2025-06-23": 1440
+      "2025-06-24": 1440
     }
   },
   {
@@ -451,9 +451,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
-    "timeDay": 332,
-    "timeWeek": 544,
-    "timeMonth": 475,
+    "timeDay": 246,
+    "timeWeek": 460,
+    "timeMonth": 471,
     "timeYear": 499,
     "dailyMinutesDown": {}
   },
@@ -469,8 +469,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 142,
-    "timeWeek": 183,
+    "timeDay": 182,
+    "timeWeek": 184,
     "timeMonth": 216,
     "timeYear": 277,
     "dailyMinutesDown": {}
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "71.47%",
+    "uptime": "71.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.01%",
-    "time": 547,
+    "uptimeYear": "4.96%",
+    "time": 546,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 565,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2026-06-22": 1376,
+      "2026-06-23": 209,
+      "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
@@ -853,9 +854,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 886,
-    "timeDay": 621,
-    "timeWeek": 902,
-    "timeMonth": 997,
+    "timeDay": 576,
+    "timeWeek": 877,
+    "timeMonth": 966,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2025-12-15": 70,
@@ -877,7 +878,7 @@
     "uptimeMonth": "9.96%",
     "uptimeYear": "1.83%",
     "time": 145,
-    "timeDay": 105,
+    "timeDay": 102,
     "timeWeek": 169,
     "timeMonth": 181,
     "timeYear": 154,
@@ -1156,7 +1157,6 @@
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
-      "2025-06-23": 1440,
       "2026-04-01": 1382,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -1245,8 +1245,9 @@
       "2026-06-16": 1440,
       "2026-06-19": 1365,
       "2026-06-20": 1372,
-      "2026-06-22": 799,
-      "2026-06-21": 1440
+      "2026-06-22": 863,
+      "2026-06-21": 1440,
+      "2026-06-23": 209
     }
   }
 ]
