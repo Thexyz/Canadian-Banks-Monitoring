@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 89,
+      "2026-07-02": 209,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -481,18 +481,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "70.95%",
+    "uptime": "70.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "2.52%",
+    "uptimeYear": "2.49%",
     "time": 550,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2026-07-02": 89,
+      "2026-07-02": 209,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -882,12 +882,12 @@
     "slug": "canadian-western-bank",
     "status": "down",
     "uptime": "0.64%",
-    "uptimeDay": "34.16%",
+    "uptimeDay": "30.74%",
     "uptimeWeek": "15.08%",
     "uptimeMonth": "10.18%",
     "uptimeYear": "2.14%",
     "time": 153,
-    "timeDay": 376,
+    "timeDay": 254,
     "timeWeek": 253,
     "timeMonth": 206,
     "timeYear": 161,
@@ -1256,7 +1256,7 @@
       "2026-06-27": 1440,
       "2026-06-30": 1198,
       "2026-07-01": 1021,
-      "2026-07-02": 15
+      "2026-07-02": 136
     }
   }
 ]
