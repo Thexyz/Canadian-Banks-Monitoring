@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 116,
-    "timeWeek": 144,
-    "timeMonth": 176,
-    "timeYear": 237,
+    "timeDay": 192,
+    "timeWeek": 155,
+    "timeMonth": 180,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2025-07-24": 29
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 468,
-    "timeWeek": 335,
-    "timeMonth": 297,
+    "timeDay": 190,
+    "timeWeek": 337,
+    "timeMonth": 299,
     "timeYear": 316,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 187,
-    "timeWeek": 184,
-    "timeMonth": 217,
-    "timeYear": 236,
+    "time": 239,
+    "timeDay": 74,
+    "timeWeek": 183,
+    "timeMonth": 215,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 1261,
+      "2026-07-08": 154,
+      "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -435,8 +436,7 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
-      "2025-07-08": 1440
+      "2025-07-09": 1440
     }
   },
   {
@@ -450,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 807,
-    "timeWeek": 857,
-    "timeMonth": 557,
-    "timeYear": 512,
+    "time": 481,
+    "timeDay": 709,
+    "timeWeek": 896,
+    "timeMonth": 574,
+    "timeYear": 513,
     "dailyMinutesDown": {}
   },
   {
@@ -469,9 +469,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 73,
-    "timeWeek": 224,
-    "timeMonth": 230,
+    "timeDay": 185,
+    "timeWeek": 208,
+    "timeMonth": 231,
     "timeYear": 276,
     "dailyMinutesDown": {}
   },
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "70.62%",
+    "uptime": "70.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.92%",
-    "time": 551,
+    "uptimeYear": "0.86%",
+    "time": 552,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 540,
+    "timeYear": 609,
     "dailyMinutesDown": {
-      "2026-07-07": 1261,
+      "2026-07-08": 154,
+      "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -867,11 +868,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 886,
-    "timeDay": 581,
-    "timeWeek": 741,
-    "timeMonth": 900,
-    "timeYear": 896,
+    "time": 885,
+    "timeDay": 563,
+    "timeWeek": 647,
+    "timeMonth": 879,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2025-12-15": 70,
       "2026-02-22": 31,
@@ -1156,7 +1157,6 @@
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
-      "2025-07-08": 1440,
       "2026-04-01": 1382,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -1260,8 +1260,9 @@
       "2026-07-03": 1266,
       "2026-07-05": 933,
       "2026-07-04": 1440,
-      "2026-07-07": 979,
-      "2026-07-06": 786
+      "2026-07-07": 1158,
+      "2026-07-06": 786,
+      "2026-07-08": 154
     }
   }
 ]
