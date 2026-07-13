@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "46.12%",
+    "uptime": "46.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 685,
+      "2026-07-13": 815,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -492,7 +492,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 685,
+      "2026-07-13": 815,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -889,17 +889,17 @@
     "url": "https://www.cwbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cwbank.com.ico",
     "slug": "canadian-western-bank",
-    "status": "down",
+    "status": "up",
     "uptime": "0.78%",
-    "uptimeDay": "16.22%",
+    "uptimeDay": "14.34%",
     "uptimeWeek": "12.30%",
-    "uptimeMonth": "14.82%",
+    "uptimeMonth": "14.81%",
     "uptimeYear": "2.64%",
-    "time": 149,
-    "timeDay": 89,
-    "timeWeek": 182,
-    "timeMonth": 202,
-    "timeYear": 163,
+    "time": 150,
+    "timeDay": 186,
+    "timeWeek": 192,
+    "timeMonth": 206,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2026-03-24": 1389,
       "2026-03-23": 1440,
@@ -1265,7 +1265,7 @@
       "2026-07-09": 1423,
       "2026-07-11": 1382,
       "2026-07-12": 1378,
-      "2026-07-13": 479
+      "2026-07-13": 608
     }
   }
 ]
