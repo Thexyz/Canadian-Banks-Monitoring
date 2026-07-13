@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 971,
+      "2026-07-13": 1091,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -492,7 +492,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 971,
+      "2026-07-13": 1091,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -889,17 +889,17 @@
     "url": "https://www.cwbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cwbank.com.ico",
     "slug": "canadian-western-bank",
-    "status": "down",
+    "status": "up",
     "uptime": "0.79%",
-    "uptimeDay": "25.20%",
-    "uptimeWeek": "13.85%",
+    "uptimeDay": "25.22%",
+    "uptimeWeek": "13.86%",
     "uptimeMonth": "15.16%",
     "uptimeYear": "2.67%",
-    "time": 149,
-    "timeDay": 152,
-    "timeWeek": 185,
-    "timeMonth": 204,
-    "timeYear": 163,
+    "time": 150,
+    "timeDay": 176,
+    "timeWeek": 189,
+    "timeMonth": 205,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2026-03-24": 1389,
       "2026-03-23": 1440,
@@ -1265,7 +1265,7 @@
       "2026-07-09": 1423,
       "2026-07-11": 1382,
       "2026-07-12": 1378,
-      "2026-07-13": 608
+      "2026-07-13": 727
     }
   }
 ]
