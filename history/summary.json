@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 237,
     "timeDay": 483,
-    "timeWeek": 224,
-    "timeMonth": 178,
+    "timeWeek": 227,
+    "timeMonth": 180,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-07-24": 29
@@ -32,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 321,
     "timeDay": 691,
-    "timeWeek": 387,
-    "timeMonth": 324,
+    "timeWeek": 414,
+    "timeMonth": 329,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -50,8 +50,8 @@
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 384,
-    "timeWeek": 276,
-    "timeMonth": 217,
+    "timeWeek": 299,
+    "timeMonth": 221,
     "timeYear": 237,
     "dailyMinutesDown": {}
   },
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "45.99%",
+    "uptime": "45.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 4,
+      "2026-07-17": 152,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -452,8 +452,8 @@
     "uptimeYear": "100.00%",
     "time": 485,
     "timeDay": 617,
-    "timeWeek": 575,
-    "timeMonth": 619,
+    "timeWeek": 614,
+    "timeMonth": 633,
     "timeYear": 520,
     "dailyMinutesDown": {}
   },
@@ -470,8 +470,8 @@
     "uptimeYear": "100.00%",
     "time": 276,
     "timeDay": 560,
-    "timeWeek": 324,
-    "timeMonth": 250,
+    "timeWeek": 336,
+    "timeMonth": 255,
     "timeYear": 277,
     "dailyMinutesDown": {}
   },
@@ -492,7 +492,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 4,
+      "2026-07-17": 152,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -872,8 +872,8 @@
     "uptimeYear": "99.94%",
     "time": 882,
     "timeDay": 766,
-    "timeWeek": 843,
-    "timeMonth": 816,
+    "timeWeek": 854,
+    "timeMonth": 800,
     "timeYear": 896,
     "dailyMinutesDown": {
       "2025-12-15": 70,
@@ -892,13 +892,13 @@
     "status": "down",
     "uptime": "0.85%",
     "uptimeDay": "16.21%",
-    "uptimeWeek": "18.75%",
+    "uptimeWeek": "17.77%",
     "uptimeMonth": "16.81%",
     "uptimeYear": "2.89%",
     "time": 152,
     "timeDay": 189,
-    "timeWeek": 211,
-    "timeMonth": 207,
+    "timeWeek": 214,
+    "timeMonth": 209,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2026-03-24": 1389,
@@ -1265,7 +1265,7 @@
       "2026-07-14": 1062,
       "2026-07-15": 1025,
       "2026-07-16": 1210,
-      "2026-07-17": 0
+      "2026-07-17": 148
     }
   }
 ]
