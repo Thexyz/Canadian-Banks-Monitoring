@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 131,
-    "timeWeek": 233,
-    "timeMonth": 181,
-    "timeYear": 231,
-    "dailyMinutesDown": {
-      "2025-07-24": 29
-    }
+    "timeDay": 274,
+    "timeWeek": 203,
+    "timeMonth": 183,
+    "timeYear": 232,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Toronto-Dominion Bank",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 365,
-    "timeWeek": 331,
-    "timeMonth": 319,
+    "timeDay": 477,
+    "timeWeek": 301,
+    "timeMonth": 322,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 285,
-    "timeWeek": 191,
-    "timeMonth": 204,
-    "timeYear": 236,
+    "time": 238,
+    "timeDay": 134,
+    "timeWeek": 155,
+    "timeMonth": 194,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -61,7 +59,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bmo.com.ico",
     "slug": "bank-of-montreal",
     "status": "down",
-    "uptime": "45.77%",
+    "uptime": "45.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -72,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 157,
+      "2026-07-24": 153,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -435,8 +434,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   },
   {
@@ -450,11 +448,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 511,
-    "timeWeek": 628,
-    "timeMonth": 658,
-    "timeYear": 522,
+    "time": 488,
+    "timeDay": 847,
+    "timeWeek": 661,
+    "timeMonth": 670,
+    "timeYear": 523,
     "dailyMinutesDown": {}
   },
   {
@@ -468,11 +466,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
+    "time": 275,
     "timeDay": 148,
-    "timeWeek": 322,
-    "timeMonth": 272,
-    "timeYear": 278,
+    "timeWeek": 263,
+    "timeMonth": 266,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   },
   {
@@ -481,7 +479,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hsbc.ca.ico",
     "slug": "hsbc-canada",
     "status": "down",
-    "uptime": "69.77%",
+    "uptime": "69.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -492,7 +490,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 157,
+      "2026-07-24": 153,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -855,8 +854,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   },
   {
@@ -870,10 +868,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.94%",
-    "time": 881,
-    "timeDay": 568,
-    "timeWeek": 667,
-    "timeMonth": 770,
+    "time": 882,
+    "timeDay": 1384,
+    "timeWeek": 756,
+    "timeMonth": 796,
     "timeYear": 895,
     "dailyMinutesDown": {
       "2025-12-15": 70,
@@ -890,15 +888,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cwbank.com.ico",
     "slug": "canadian-western-bank",
     "status": "up",
-    "uptime": "1.31%",
+    "uptime": "1.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.98%",
-    "uptimeMonth": "33.59%",
-    "uptimeYear": "4.51%",
-    "time": 157,
-    "timeDay": 559,
-    "timeWeek": 553,
-    "timeMonth": 249,
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "36.58%",
+    "uptimeYear": "4.79%",
+    "time": 158,
+    "timeDay": 358,
+    "timeWeek": 620,
+    "timeMonth": 241,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2026-03-24": 1389,
@@ -1144,7 +1142,6 @@
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
-      "2025-07-24": 1440,
       "2026-04-01": 1382,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
